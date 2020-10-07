@@ -1,5 +1,5 @@
-<?php get_header();  ?>
+<?php get_header(); // header.php ?>
 
-<p> This is <strong>index.php</strong></p>
+<p>This is <strong>index.php</strong></p>
 
-<? get_footer();
+<?php get_footer(); // footer.php
